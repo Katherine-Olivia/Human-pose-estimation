@@ -1,0 +1,7 @@
+```
+requirements
+streamlit
+opencv-python
+pillow
+mediapipe
+numpy
